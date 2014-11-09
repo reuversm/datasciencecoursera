@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "HelloWorld"
 output: html_document
@@ -20,3 +21,6 @@ plot(cars)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ## This is a markdown file
+=======
+## This is a markdown file
+>>>>>>> 95032778475a74ef270636108b613c533a8d2575
